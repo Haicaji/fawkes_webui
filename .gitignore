@@ -18,3 +18,15 @@ fawkes_dev/protect_personId.txt
 # developer environments
 .idea
 .vscode
+fawkes/model/extractor_0.h5
+fawkes/model/extractor_2.h5
+imgs/2024_05_25_20_47_42_input.png
+imgs/2024_05_25_20_51_26_input_cloaked.png
+imgs/2024_05_25_20_51_26_input.png
+imgs/2024_05_25_20_54_38_input.png
+imgs/2024_05_25_20_54_38_output_low.png
+imgs/2024_05_25_20_55_29_input.png
+imgs/2024_05_25_20_56_09_input.png
+tmp/e.jpg
+tmp/test.py
+.gitignore
